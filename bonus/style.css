@@ -1,0 +1,43 @@
+* {
+    text-align: right;
+}
+
+.container {
+    position: relative;
+    height: 72vh;
+}
+
+.photos {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.content {
+    height: 160px;
+}
+
+.content table {
+    position: absolute;
+    right: 0;
+}
+
+.content ul {
+    direction: rtl;
+}
+
+.info ul, .info ol {
+    direction: rtl;
+    margin: 1em 0;
+}
+
+.container2 {
+    position: relative;
+    height: 48vh;
+}
+
+.photos2 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
